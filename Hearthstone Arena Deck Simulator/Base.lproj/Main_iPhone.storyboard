@@ -4,7 +4,7 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
     </dependencies>
     <scenes>
-        <!--Card Game View Controller - Selete Your Class-->
+        <!--Card Game View Controller - Select Your Class-->
         <scene sceneID="ufC-wZ-h7g">
             <objects>
                 <viewController id="vXZ-lx-hvc" customClass="CardGameViewController" sceneMemberID="viewController">
@@ -127,7 +127,7 @@
                         </subviews>
                         <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="0.25098040700000002" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
-                    <navigationItem key="navigationItem" title="Selete Your Class" id="np2-Qi-hib"/>
+                    <navigationItem key="navigationItem" title="Select Your Class" id="np2-Qi-hib"/>
                     <connections>
                         <outletCollection property="classes" destination="mNP-uI-gWG" id="vgH-Lw-Lqt"/>
                         <outletCollection property="classes" destination="bgb-06-WHw" id="vvh-qo-yoG"/>
