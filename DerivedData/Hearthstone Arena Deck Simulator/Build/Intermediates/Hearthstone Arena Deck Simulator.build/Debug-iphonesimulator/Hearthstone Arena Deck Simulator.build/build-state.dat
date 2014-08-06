@@ -166,8 +166,8 @@ cCpResource Hearthstone\ Arena\ Deck\ Simulator/cards/CS2_064.png DerivedData/He
 cCpResource Hearthstone\ Arena\ Deck\ Simulator/cards/CS2_237.png DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app/CS2_237.png
 cCpResource Hearthstone\ Arena\ Deck\ Simulator/cards/DS1_184.png DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app/DS1_184.png
 cCpResource Hearthstone\ Arena\ Deck\ Simulator/cards/EX1_295.png DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app/EX1_295.png
-cCpResource Hearthstone\ Arena\ Deck\ Simulator/cards/EX1_241.png DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app/EX1_241.png
 cCompileStoryboard /Users/frank/Documents/c++/Hearthstone\ Arena\ Deck\ Simulator/Hearthstone\ Arena\ Deck\ Simulator/Base.lproj/Main_iPhone.storyboard
+cCpResource Hearthstone\ Arena\ Deck\ Simulator/cards/EX1_241.png DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app/EX1_241.png
 cCpResource Hearthstone\ Arena\ Deck\ Simulator/cards/EX1_126.png DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app/EX1_126.png
 cCpResource Hearthstone\ Arena\ Deck\ Simulator/cards/hero/5.png DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app/5.png
 cCpResource Hearthstone\ Arena\ Deck\ Simulator/cards/CS2_141.png DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app/CS2_141.png
@@ -717,7 +717,7 @@ t1407362388
 s48224
 
 N/Users/frank/Documents/c++/Hearthstone Arena Deck Simulator/DerivedData/Hearthstone Arena Deck Simulator/Build/Intermediates/Hearthstone Arena Deck Simulator.build/Debug-iphonesimulator/Hearthstone Arena Deck Simulator.build/Objects-normal/x86_64/Card+method.o
-t1407362388
+t1407367502
 s14100
 
 N/Users/frank/Documents/c++/Hearthstone Arena Deck Simulator/DerivedData/Hearthstone Arena Deck Simulator/Build/Intermediates/Hearthstone Arena Deck Simulator.build/Debug-iphonesimulator/Hearthstone Arena Deck Simulator.build/Objects-normal/x86_64/Card-4EB95E1FEDC28750.o
@@ -776,11 +776,11 @@ t1407273002
 s118716
 
 N/Users/frank/Documents/c++/Hearthstone Arena Deck Simulator/DerivedData/Hearthstone Arena Deck Simulator/Build/Products/Debug-iphonesimulator/Hearthstone Arena Deck Simulator.app
-t1407366782
+t1407367502
 s15096
 
 N/Users/frank/Documents/c++/Hearthstone Arena Deck Simulator/DerivedData/Hearthstone Arena Deck Simulator/Build/Products/Debug-iphonesimulator/Hearthstone Arena Deck Simulator.app.dSYM
-t1407366737
+t1407367457
 s102
 
 N/Users/frank/Documents/c++/Hearthstone Arena Deck Simulator/DerivedData/Hearthstone Arena Deck Simulator/Build/Products/Debug-iphonesimulator/Hearthstone Arena Deck Simulator.app/1.json
@@ -2352,7 +2352,7 @@ t1407272963
 s208266
 
 N/Users/frank/Documents/c++/Hearthstone Arena Deck Simulator/DerivedData/Hearthstone Arena Deck Simulator/Build/Products/Debug-iphonesimulator/Hearthstone Arena Deck Simulator.app/Hearthstone Arena Deck Simulator
-t1407366782
+t1407367502
 s67632
 
 N/Users/frank/Documents/c++/Hearthstone Arena Deck Simulator/DerivedData/Hearthstone Arena Deck Simulator/Build/Products/Debug-iphonesimulator/Hearthstone Arena Deck Simulator.app/Info.plist
@@ -2537,8 +2537,8 @@ t1407292755
 s215
 
 N/Users/frank/Documents/c++/Hearthstone Arena Deck Simulator/Hearthstone Arena Deck Simulator/Card+method.m
-c0000000053E2701600000000000002AB
-t1407348758
+c0000000053E2B91F00000000000002AB
+t1407367455
 s683
 
 N/Users/frank/Documents/c++/Hearthstone Arena Deck Simulator/Hearthstone Arena Deck Simulator/Card.h
@@ -4908,7 +4908,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc7bd1915ee92b941^8dd51a15ee92b941^---0#1#1#--18"Check dependencies36"0EA2C609-2C2E-4500-B140-1FA25D712410-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc4426dd5f092b941^4e09a8d5f092b941^---0#1#1#--18"Check dependencies36"6D3C2774-6E3D-4883-BEFF-A85C5415BF81-
 
 CCompileAssetCatalog /Users/frank/Documents/c++/Hearthstone\ Arena\ Deck\ Simulator/DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app /Users/frank/Documents/c++/Hearthstone\ Arena\ Deck\ Simulator/Hearthstone\ Arena\ Deck\ Simulator/Images.xcassets
 s429047391.460029
@@ -9576,14 +9576,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection212"DataMo
 bB5D7E42D-74F4-4EB2-AE11-73B03BAC4E5E
 
 CGenerateDSYMFile /Users/frank/Documents/c++/Hearthstone\ Arena\ Deck\ Simulator/DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app.dSYM /Users/frank/Documents/c++/Hearthstone\ Arena\ Deck\ Simulator/DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app/Hearthstone\ Arena\ Deck\ Simulator
-s429059605.731335
-e429059605.778368
+s429060309.728175
+e429060309.769264
 r1
 xGenerateDSYMFile
 x/Users/frank/Documents/c++/Hearthstone Arena Deck Simulator/DerivedData/Hearthstone Arena Deck Simulator/Build/Products/Debug-iphonesimulator/Hearthstone Arena Deck Simulator.app.dSYM
 x/Users/frank/Documents/c++/Hearthstone Arena Deck Simulator/DerivedData/Hearthstone Arena Deck Simulator/Build/Products/Debug-iphonesimulator/Hearthstone Arena Deck Simulator.app/Hearthstone Arena Deck Simulator
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection192"Generate /Users/frank/Documents/c++/Hearthstone Arena Deck Simulator/DerivedData/Hearthstone Arena Deck Simulator/Build/Products/Debug-iphonesimulator/Hearthstone Arena Deck Simulator.app.dSYM307"GenerateDSYMFile DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app.dSYM DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app/Hearthstone\ Arena\ Deck\ Simulator4a45bb15ee92b941^3546c715ee92b941^---0#0#1#-19%DVTDocumentLocation2@209"file:///Users/frank/Documents/c++/Hearthstone%20Arena%20Deck%20Simulator/DerivedData/Hearthstone%20Arena%20Deck%20Simulator/Build/Products/Debug-iphonesimulator/Hearthstone%20Arena%20Deck%20Simulator.app.dSYM/0000000000000000^1092"GenerateDSYMFile DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app.dSYM DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app/Hearthstone\ Arena\ Deck\ Simulator    cd "/Users/frank/Documents/c++/Hearthstone Arena Deck Simulator"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/frank/Documents/c++/Hearthstone\ Arena\ Deck\ Simulator/DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app/Hearthstone\ Arena\ Deck\ Simulator -o /Users/frank/Documents/c++/Hearthstone\ Arena\ Deck\ Simulator/DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app.dSYM36"7EA865C2-82BC-43BB-A8C9-6093BC8E2220-
-b254D27B4-3149-4AEA-B980-C6D601AFAF19
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection192"Generate /Users/frank/Documents/c++/Hearthstone Arena Deck Simulator/DerivedData/Hearthstone Arena Deck Simulator/Build/Products/Debug-iphonesimulator/Hearthstone Arena Deck Simulator.app.dSYM307"GenerateDSYMFile DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app.dSYM DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app/Hearthstone\ Arena\ Deck\ Simulator2978bad5f092b941^7afec4d5f092b941^---0#0#1#-19%DVTDocumentLocation2@209"file:///Users/frank/Documents/c++/Hearthstone%20Arena%20Deck%20Simulator/DerivedData/Hearthstone%20Arena%20Deck%20Simulator/Build/Products/Debug-iphonesimulator/Hearthstone%20Arena%20Deck%20Simulator.app.dSYM/0000000000000000^1092"GenerateDSYMFile DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app.dSYM DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app/Hearthstone\ Arena\ Deck\ Simulator    cd "/Users/frank/Documents/c++/Hearthstone Arena Deck Simulator"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/frank/Documents/c++/Hearthstone\ Arena\ Deck\ Simulator/DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app/Hearthstone\ Arena\ Deck\ Simulator -o /Users/frank/Documents/c++/Hearthstone\ Arena\ Deck\ Simulator/DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app.dSYM36"F3457B26-CC6B-46CF-8F65-422A9814A53A-
+b0B8B5CA9-9BE0-4A28-A86B-4D480F47C90D
 
 CLd /Users/frank/Documents/c++/Hearthstone\ Arena\ Deck\ Simulator/DerivedData/Hearthstone\ Arena\ Deck\ Simulator/Build/Products/Debug-iphonesimulator/Hearthstone\ Arena\ Deck\ Simulator.app/Hearthstone\ Arena\ Deck\ Simulator normal i386
 s429045357.391518
