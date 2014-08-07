@@ -38,7 +38,20 @@
 -(UITableViewCell*)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
     UITableViewCell *cell=[tableView dequeueReusableCellWithIdentifier:@"card" forIndexPath:indexPath];
     Card *card=self.sortedCards[indexPath.row];
+    
     cell.textLabel.text=[NSString stringWithFormat:@"%@",card.cost];
+    
+    if([card.rarity isEqualToString:@"Rare"]){
+        cell.textLabel.textColor=[UIColor blueColor];
+    }else if([card.rarity isEqualToString:@"Epic"]){
+        cell.textLabel.textColor=[UIColor purpleColor];
+    }
+    else if([card.rarity isEqualToString:@"Legendary"]){
+        cell.textLabel.textColor=[UIColor orangeColor];
+    }else{
+         cell.textLabel.textColor=[UIColor blackColor];
+    }
+    
     cell.detailTextLabel.text=[NSString stringWithFormat:@"%@",card.name];
     cell.detailTextLabel.font=[UIFont fontWithName:@"ArialHebrew" size:14];
     //cell.detailTextLabel.font
