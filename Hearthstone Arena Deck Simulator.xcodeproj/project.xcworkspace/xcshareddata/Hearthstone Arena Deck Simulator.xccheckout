@@ -12,20 +12,24 @@
 	<dict>
 		<key>232CD0F7-F376-4704-BD1C-242B2A12C239</key>
 		<string>ssh://github.com/franksunjin/Hearthstone-Arena-Deck-Simulator.git</string>
+		<key>787EAB3B881A2C0E82247DF00127832D3EACB4EC</key>
+		<string>github.com:franksunjin/Hearthstone-Arena-Deck-Simulator.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Hearthstone Arena Deck Simulator.xcodeproj/project.xcworkspace</string>
+	<string>Hearthstone Arena Deck Simulator.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>232CD0F7-F376-4704-BD1C-242B2A12C239</key>
+		<string>../../../Hearthstone Arena Deck Simulator</string>
+		<key>787EAB3B881A2C0E82247DF00127832D3EACB4EC</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/franksunjin/Hearthstone-Arena-Deck-Simulator.git</string>
+	<string>github.com:franksunjin/Hearthstone-Arena-Deck-Simulator.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>232CD0F7-F376-4704-BD1C-242B2A12C239</string>
+	<string>787EAB3B881A2C0E82247DF00127832D3EACB4EC</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>232CD0F7-F376-4704-BD1C-242B2A12C239</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Hearthstone Arena Deck Simulator</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>787EAB3B881A2C0E82247DF00127832D3EACB4EC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Hearthstone%20Arena%20Deck%20Simulator</string>
 		</dict>
 	</array>
 </dict>

@@ -129,7 +129,6 @@
                     </view>
                     <navigationItem key="navigationItem" title="Select Your Class" id="np2-Qi-hib"/>
                     <connections>
-                        <outlet property="bo" destination="mNP-uI-gWG" id="niy-fN-BJO"/>
                         <outletCollection property="classes" destination="mNP-uI-gWG" id="vgH-Lw-Lqt"/>
                         <outletCollection property="classes" destination="bgb-06-WHw" id="vvh-qo-yoG"/>
                         <outletCollection property="classes" destination="VRB-Xz-o53" id="vmd-Jl-RBj"/>
